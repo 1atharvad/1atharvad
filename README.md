@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Atharva Sarvesh Devasthali!  
-### *Experienced Software Engineer | Full Stack Developer | Machine Learning Enthusiast*  
+### *Experienced Software Engineer | Full Stack Developer | ML / AI Developer*  
 *(You can call me **AD**)*  
 
 🌟 Welcome to my GitHub! I’m passionate about building intelligent systems, crafting scalable web applications, and exploring the intersection of AI and real-world applications.
