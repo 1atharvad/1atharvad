@@ -1,4 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Atharva Sarvesh Devasthali!  
+### *Experienced Software Engineer | Full Stack Developer | Machine Learning Enthusiast*  
+*(You can call me **AD**)*  
+
+🌟 Welcome to my GitHub! I’m passionate about building intelligent systems, crafting scalable web applications, and exploring the intersection of AI and real-world applications.
+
+---
+
+## 🚀 About Me  
+- 🎓 *Master's in Computer Science* @ **UT Arlington**  
+  *(Focus Areas: Machine Learning, Artificial Intelligence, Computer Vision, Neural Networks)*  
+- 👨‍💻 *3+ Years of Industry Experience* in Full-Stack Development and Machine Learning.  
+- 🔭 Exploring **Unmanned Vehicle Systems** and **AI-powered applications**.  
+
+---
+
+## 💻 Skills & Technologies  
+
+**Programming Languages:**  
+- Python, JavaScript, TypeScript  
+
+**Frameworks & Libraries:**  
+- Flask, Django, FastAPI, Express.js, TensorFlow, Keras, OpenCV  
+
+**Front-End Development:**  
+- React, Angular, HTML, SCSS, CSS  
+
+**Databases & Cloud:**  
+- MySQL, MongoDB, Firebase, Google Cloud Platform (GCP), SQL  
+
+**DevOps & Tools:**  
+- Git, Webpack, Gulp, Shell Scripting  
+
+---
+
+## 📄 Publications  
+
+- **IoT-Based Inventory Management System with Recipe Recommendation using Collaborative Filtering**  
+Published in the *International Conference on Evolutionary Computing and Mobile Sustainable Networks (ICECMSN)* Journal by Springer.
+[Read the full publication here.](https://link.springer.com/chapter/10.1007/978-981-15-5258-8_50)
+
+---
+
+## 📫 Contact Me  
+
+- **Email:** [atharvadevasthali22@gmail.com](mailto:atharvadevasthali22@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/atharva-devasthali](https://linkedin.com/in/atharva-devasthali)  
+- **Portfolio:** [atharvadevasthali.tech](https://atharvadevasthali.tech)  
 
 <!--
 **1atharvad/1atharvad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
