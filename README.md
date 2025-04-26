@@ -16,20 +16,26 @@
 
 ## 💻 Skills & Technologies  
 
-**Programming Languages:**  
-- Python, JavaScript, TypeScript  
+**Programming Languages:**
+- Python, JavaScript, TypeScript, Go, Java
 
-**Frameworks & Libraries:**  
-- Flask, Django, FastAPI, Express.js, TensorFlow, Keras, OpenCV  
+**Frameworks & Libraries:**
+- Flask, Django, FastAPI, Express.js, TensorFlow, Keras, OpenCV
 
-**Front-End Development:**  
-- React, Angular, HTML, SCSS, CSS  
+**Front-End Development:**
+- React.js, Next.js, Angular, HTML5, SCSS, CSS3
 
-**Databases & Cloud:**  
-- MySQL, MongoDB, Firebase, Google Cloud Platform (GCP), SQL  
+**Databases & Cloud:**
+- MongoDB, MySQL, Firebase, Google Cloud Platform (GCP), SQL
 
-**DevOps & Tools:**  
-- Git, Webpack, Gulp, Shell Scripting  
+**DevOps & Tools:**
+- Git, Docker, Webpack, Gulp, Shell Scripting
+
+**Testing & CI/CD:**
+- Jest, Pytest
+
+**API & Integration Tools:**
+- Postman
 
 ---
 
